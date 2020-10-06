@@ -1,6 +1,7 @@
 Bioinformatics Training
 =======================
 
+# Bioinformatics has opened up satisfactory opportunities in tele-based healthcare. One of the widely used bioinformatics application in tele-based medical care.
 This is a resource for learning more about PacBio data and bioinformatics analysis. 
 
 Start here: https://github.com/PacificBiosciences/Bioinformatics-Training/wiki
